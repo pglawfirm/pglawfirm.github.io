@@ -106,7 +106,7 @@ ul{
     background-color:#38434C;
     width:200px;
     height:42px;
-    background-image:url("../image/search.svg");
+    background-image:url("search.svg");
     background-repeat: no-repeat;
     background-position: right;
     
@@ -215,7 +215,7 @@ background-clip: text;
 #Our_practic{
     width:100%;
     height: auto; 
-    background-image: url("../image/Rectangle\ 11.png");
+    background-image: url("Rectangle\ 11.png");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -322,16 +322,16 @@ background-clip: text;
     color:#B17F34
 }
 .loywer1{
-    background-image: url("../image/Rectangle\ 26.jpg");
+    background-image: url("Rectangle\ 26.jpg");
 }
 .loywer2{
-    background-image: url("../image/Rectangle\ 29.jpg");
+    background-image: url("Rectangle\ 29.jpg");
 }
 .loywer3{
-    background-image: url("../image/Rectangle\ 30.jpg");
+    background-image: url("Rectangle\ 30.jpg");
 }
 .loywer4{
-    background-image: url("../image/Rectangle\ 27.jpg");
+    background-image: url("Rectangle\ 27.jpg");
 }
 .loywer_info{
     color:white;
