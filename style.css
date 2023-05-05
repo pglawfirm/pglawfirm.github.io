@@ -379,6 +379,7 @@ background-clip: text;
     padding:50px 30px 200px;
     background-color: #38434C;
     color:white;
+    overflow: hidden;
 
 }
 .reviews_header{
