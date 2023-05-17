@@ -185,6 +185,10 @@ ul{
     padding:20px;
 
 }
+.contact_us:hover{
+    background-color: #ce933b;
+    cursor: pointer;
+}
 
 .contact_us>p{
     font-family: 'Inter';
